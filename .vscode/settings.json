@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./modules"
+    ],
+    "ollama-autocoder.model": "codegemma:7b-code"
+}
